@@ -37,13 +37,13 @@ GET http://localhost:3000/tiktok/product-detail?productId=1729385818970687402
 Response:
 ```
 {
-  "success": true,
-  "product": {
-    "title": "Tas Totebag Estetik Wanita Jemina Kuliah Kulit Sintetis Muat Laptop",
-    "seller": "JeminaStore",
-    "price": "Rp150.000",
-    "description": "Synthetic leather\nFits up to 14-inch laptop\nElegant and practical design\n..."
-  }
+    "success": true,
+    "product": {
+        "title": "Lily Kulot Knit Rajut HighWaist (Tanpa Saku) Celana Wanita",
+        "seller": "TOMETOH ID",
+        "price": "Rp82.900",
+        "description": "Yang dulu pernah beli ukuran KNIT = ALLSIZE. (Hanya ganti nama varian saja).\nTolong abaikan varian ukuran ...
+    }
 }
 ```
 
