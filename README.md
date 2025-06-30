@@ -14,8 +14,9 @@ A web scraping API for fetching product details or product listings from TikTok 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-```bash
+```
 git clone https://github.com/your-username/tiktokshop-scraper.git
+```
 cd tiktokshop-scraper
 
 ### 2. Install Dependencies
