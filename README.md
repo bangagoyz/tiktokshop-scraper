@@ -32,7 +32,7 @@ Endpoint:
 GET /tiktok/product-detail?productId=<PRODUCT_ID>
 Example:
 ```
-GET /tiktok/api-category?categoryId=<CATEGORY_ID>
+GET /tiktok/api-category?productId=<CATEGORY_ID>
 ```
 ```
 GET http://localhost:3000/tiktok/product-detail?productId=1729385818970687402
